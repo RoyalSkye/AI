@@ -1,5 +1,5 @@
 # AI
-Eight Puzzle Problem and Artificial Neural Network developed in March, 2018 for AI Course taught by Professor Hao
+Eight Puzzle Problem and Artificial Neural Network developed in March, 2018 for AI Course taught by Professor Hao.
 
 Eight Puzzle Problem: find a optimal solution from init state to target state. There are several algorithms to solve it.(order by time desc)
 a.	暴力广搜+STL 
@@ -14,5 +14,5 @@ My program was developed with C++, heuristic algorithm(A*), Manhattan distance a
 I also developed a program to show the process of moving of every number with QT. You can change the input, interval and so on whatever you want.
 The file ends with exe show an example. To see more details of algorithm, read the report.
 
-ANN(Artificial Neural Network): a simple ANN with the algorithm of Delt and a involved BP ANN.
+ANN(Artificial Neural Network): a simple ANN with the algorithm of Delt and an involved BP ANN.
 You can change some factors which may affect the speed of learning of ANN. To see more details of algorithm, read the report.
